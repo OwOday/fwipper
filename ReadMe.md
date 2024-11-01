@@ -1,5 +1,4 @@
 <p align="center">
-  <img src=".github/assets/logo.png" alt="Momentum Firmware">
   <h2 align="center">for Flipper Zero</h2>
 </p>
 
@@ -7,11 +6,13 @@
   <a href="#Install">Install</a> | <a href="#list-of-changes">Features</a> | <a href="https://discord.gg/momentum">Discord</a> | <a href="#%EF%B8%8F-support">Donate</a>
 </h2>
 
-This custom firmware is based on the [Official Firmware](https://github.com/flipperdevices/flipperzero-firmware), and includes most of the awesome features from [Unleashed](https://github.com/DarkFlippers/unleashed-firmware). It is a direct continuation of the Xtreme firmware, built by the same (and only) developers who made that project special.
+This custom firmware is based on the [Official Firmware]([https://github.com/flipperdevices/flipperzero-firmware](https://github.com/Next-Flip/Momentum-Firmware)), and includes most of the awesome features from [Unleashed](https://github.com/DarkFlippers/unleashed-firmware). It is a direct continuation of the Momentum firmware, which is a direct continuation of the Xtreme firmware, which is built by the same (and only) developers who made that project special (this is not).
 
 -----
 <br>
 <h2 align="center">Modus Operandi:</h2>
+
+TODO: remove the wrong stuff below
 
 The goal of this firmware is to constantly push the bounds of what is possible with Flipper Zero, driving the innovation of many new groundbreaking features, while maintaining the easiest and most customizable user experience of any firmware. Fixing bugs promptly and ensuring a stable and compatible system is also of our utmost importance.
 <br><br>
